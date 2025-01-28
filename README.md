@@ -1,4 +1,53 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bathiyapunsara.bathiyapunsara" />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Typing Animation</title>
+  <style>
+    body {
+      font-family: 'Courier New', Courier, monospace;
+      background-color: #f0f0f0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+    h1 {
+      color: green;
+      font-size: 36px;
+      white-space: nowrap;
+      overflow: hidden;
+      border-right: 4px solid green;
+      padding-right: 10px;
+      animation: typing 4s steps(30) 1s forwards, erase 2s steps(30) 5s forwards, typing2 4s steps(30) 7s forwards;
+    }
+    @keyframes typing {
+      from { width: 0; }
+      to { width: 100%; }
+    }
+    @keyframes erase {
+      from { width: 100%; }
+      to { width: 0; }
+    }
+    @keyframes typing2 {
+      from { width: 0; }
+      to { width: 100%; }
+    }
+  </style>
+</head>
+<body>
+  <h1 id="typing-text">Hi there</h1>
+
+  <script>
+    setTimeout(function() {
+      document.getElementById("typing-text").textContent = "I'm Bathiya Punsara";
+    }, 7000); // After 7 seconds, change the text
+  </script>
+</body>
+</html>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bathiya+Punsara!;" />
