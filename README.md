@@ -1,8 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bathiyapunsara.bathiyapunsara" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bathiya+Punsara!;" style="color:green;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Bathiya+Punsara!+👋;" style="color:green;" />
 </h1>
+
 
 <h3 align="center">A passionate frontend developer from Sri Lanka 🇱🇰</h3>
 
