@@ -43,10 +43,58 @@
 </div>
 
 <br/>
-<hr/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Snake Effect</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #0d1117;
+    }
+    
+    .snake {
+      position: absolute;
+      width: 10px;
+      height: 10px;
+      background-color: #2ea043;
+      border-radius: 50%;
+      animation: snake 5s linear infinite;
+    }
+    
+    @keyframes snake {
+      0% {
+        left: 0;
+        top: 0;
+      }
+      100% {
+        left: 100%;
+        top: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="snake"></div>
+  <script>
+    const snake = document.querySelector('.snake');
+    
+    function createSnake() {
+      const newSnake = snake.cloneNode();
+      newSnake.style.left = Math.random() * 100 + '%';
+      newSnake.style.top = Math.random() * 100 + '%';
+      document.body.appendChild(newSnake);
+      
+      setTimeout(() => {
+        newSnake.remove();
+      }, 5000);
+    }
+    
+    setInterval(createSnake, 250);
+  </script>
+</body>
+</html>
 <br/>
