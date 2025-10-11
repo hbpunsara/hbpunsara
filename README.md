@@ -74,12 +74,12 @@
 ## 📂 Highlighted Projects  
 
 | Project | Description |
-|----------|--------------|
-| **ERP / POS System** | Complete solution for sales, inventory, billing & analytics |
-| **Real-Time Dashboard** | Air quality monitoring with live data visualization |
-| **Spare Parts App** | Cross-platform app for vehicle parts & accessories |
-| **Refresh Lab** | Juice bar order & management system |
-| **Desktop Tools** | Electron-based POS and utility apps |
+|---------|-------------|
+| **Hardware Store Management System** | Desktop system built in C++ for managing inventory, billing, and daily income in a hardware store. |
+| **AI-Friend** | AI-powered chatbot designed for interactive, human-like conversations. |
+| **TicketWave-web** | Web-based ticketing and event management platform built with Laravel (PHP). |
+| **Real-Time Dashboard** | Air quality monitoring dashboard with live data visualization, historical trends, and sensor management (Laravel + MySQL + Chart.js + Leaflet.js). |
+| **Spare Parts App** | Cross-platform mobile app for browsing and purchasing vehicle tires, rims, and spare parts (Flutter + Firebase). |
 
 ---
 
