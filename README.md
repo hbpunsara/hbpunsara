@@ -1,4 +1,6 @@
 <!-- Profile Header -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bathiyapunsara.bathiyapunsara" />
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bathiya+Punsara!;" />
 </h1>
@@ -12,7 +14,7 @@
   <a href="https://www.linkedin.com/in/bathiya-punsara-8056b026b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:bathiyapunsara@gmail.com">
+  <a href="hbpunsara@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/hbpunsara" target="_blank">
