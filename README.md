@@ -35,73 +35,154 @@
 
 ---
 
-## 🧠 Technologies & Professional Toolkit  
+<h2 align="center">🧠 Technologies & Professional Toolkit</h2>
 
-### ☁️ Cloud & Deployment  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<table align="center">
 
-### 💻 Backend  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+  <!-- Cloud & Deployment -->
+  <tr>
+    <td width="180" align="center"><strong>☁️ Cloud & Deployment</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+    </td>
+  </tr>
 
-### 🧩 Frameworks & Runtimes  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+  <!-- Backend -->
+  <tr>
+    <td align="center"><strong>💻 Backend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+    </td>
+  </tr>
 
-### 🗄 Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  <!-- Frameworks & Runtimes -->
+  <tr>
+    <td align="center"><strong>🧩 Frameworks & Runtimes</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+      <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+    </td>
+  </tr>
 
-### 🧰 Tools & Methods  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  <!-- Databases -->
+  <tr>
+    <td align="center"><strong>🗄️ Databases</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+    </td>
+  </tr>
+
+  <!-- Tools & Methods -->
+  <tr>
+    <td align="center"><strong>🧰 Tools & Methods</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+    </td>
+  </tr>
+
+</table>
 
 ---
 
-## 📂 Highlighted Projects  
+<h2 align="center">📂 Highlighted Projects</h2>
 
-| Project | Description |
-|---------|-------------|
-| **Hardware Store Management System** | Desktop system built in C++ for managing inventory, billing, and daily income in a hardware store. |
-| **AI-Friend** | AI-powered chatbot designed for interactive, human-like conversations. |
-| **TicketWave-web** | Web-based ticketing and event management platform built with Laravel (PHP). |
-| **Real-Time Dashboard** | Air quality monitoring dashboard with live data visualization, historical trends, and sensor management (Laravel + MySQL + Chart.js + Leaflet.js). |
-| **Spare Parts App** | Cross-platform mobile app for browsing and purchasing vehicle tires, rims, and spare parts (Flutter + Firebase). |
+<table align="center">
+  <tr>
+    <th>🚀 Project</th>
+    <th>📝 Description</th>
+  </tr>
+  <tr>
+    <td><strong>Hardware Store Management System</strong></td>
+    <td>Desktop system built in C++ for managing inventory, billing, and daily income in a hardware store.</td>
+  </tr>
+  <tr>
+    <td><strong>AI-Friend</strong></td>
+    <td>AI-powered chatbot designed for interactive, human-like conversations.</td>
+  </tr>
+  <tr>
+    <td><strong>TicketWave-Web</strong></td>
+    <td>Web-based ticketing and event management platform built with Laravel (PHP).</td>
+  </tr>
+  <tr>
+    <td><strong>Real-Time Dashboard</strong></td>
+    <td>Air quality monitoring dashboard with live data visualization, historical trends, and sensor management (Laravel + MySQL + Chart.js + Leaflet.js).</td>
+  </tr>
+  <tr>
+    <td><strong>Spare Parts App</strong></td>
+    <td>Cross-platform mobile app for browsing and purchasing vehicle tires, rims, and spare parts (Flutter + Firebase).</td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Analytics  
 
 <table align="center">
+
+  <!-- Row 1: General Stats -->
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=hbpunsara&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub stats"/>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=hbpunsara&show_icons=true&theme=radical&include_all_commits=true" 
+        alt="GitHub Profile Summary" 
+      />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=hbpunsara&theme=radical&hide_border=true" alt="GitHub streak"/>
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hbpunsara&theme=radical" 
+        alt="GitHub Contributions" 
+      />
     </td>
   </tr>
+
+  <!-- Row 2: Activity & Languages -->
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbpunsara&theme=dracula&layout=compact&langs_count=8&hide=html,css" alt="Top languages"/>
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=hbpunsara&theme=radical&hide_border=true" 
+        alt="GitHub Activity Streak" 
+      />
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hbpunsara&theme=radical&utcOffset=5" alt="Productive time"/>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbpunsara&theme=dracula&layout=compact&langs_count=8&hide=html,css" 
+        alt="Top Languages" 
+      />
     </td>
   </tr>
+
+  <!-- Row 3: Skills & Productivity -->
+  <tr>
+    <td>
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hbpunsara&theme=radical" 
+        alt="Repositories by Language" 
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hbpunsara&theme=radical&utcOffset=5.5" 
+        alt="Commit Productivity" 
+      />
+    </td>
+  </tr>
+
 </table>
 
 ---
