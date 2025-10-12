@@ -109,7 +109,7 @@
   </tr>
   <tr>
     <td><strong>Hardware Store Management System</strong></td>
-    <td>Desktop system built in C++ for managing inventory, billing, and daily income in a hardware store.</td>
+    <td>Desktop system built in Flutter for managing inventory, billing, and daily income in a hardware store.</td>
   </tr>
   <tr>
     <td><strong>AI-Friend</strong></td>
