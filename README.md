@@ -20,6 +20,9 @@
   <a href="https://github.com/hbpunsara" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+    <a href="https://github.com/hbpunsara" target="_blank">
+    <img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Download_CV-4CAF50?style=for-the-badge&logo=readme&logoColor=white%22%20alt=%22CV%20Badge%22)"/>
+  </a>
 </p>
 
 ---
